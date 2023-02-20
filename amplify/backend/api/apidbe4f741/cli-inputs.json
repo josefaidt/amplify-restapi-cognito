@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/hello": {
+      "name": "/hello",
+      "lambdaFunction": "restapicognito7d08b598",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-restapicognito-dev-122043-authRole",
+      "UnauthRoleArn": "arn:aws:iam::814763596509:role/amplify-restapicognito-dev-122043-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::814763596509:role/amplify-restapicognito-dev-122043-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-restapicognito-dev-122043-deployment",
+      "UnauthRoleName": "amplify-restapicognito-dev-122043-unauthRole",
+      "StackName": "amplify-restapicognito-dev-122043",
+      "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-restapicognito-dev-122043/0eb8e7e0-b15c-11ed-874d-0ec3ec06a8bf",
+      "AmplifyAppId": "d3cw22qfrem2tc"
+    },
+    "categories": {
+      "auth": {
+        "restapicognito72d95fd6": {}
+      },
+      "function": {
+        "restapicognito7d08b598": {
+          "deploymentBucketName": "amplify-restapicognito-dev-122043-deployment",
+          "s3Key": "amplify-builds/restapicognito7d08b598-5476344a4d31684a2f2f-build.zip"
+        }
+      },
+      "api": {
+        "apidbe4f741": {}
+      }
+    }
+  }
+}
